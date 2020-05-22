@@ -41,6 +41,7 @@ Vagrant.configure("2") do |config|
         ubuntu_config.vm.provision "shell", path: "vagrant.sh" 
         ubuntu_config.vm.provision "shell", path: "libreoffice.sh" 
   
+        
     end
     
   end
