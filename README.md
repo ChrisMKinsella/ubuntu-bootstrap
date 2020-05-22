@@ -1,0 +1,1 @@
+Quick installer for ubuntu dev machine
